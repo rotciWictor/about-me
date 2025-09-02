@@ -23,7 +23,7 @@ const CaseStudySection = () => {
           </div>
 
           <div className="grid lg:grid-cols-2 gap-8 mb-12">
-            <Card className="hover:shadow-lg transition-shadow">
+            <Card className="bg-white hover:shadow-lg transition-shadow">
               <CardHeader>
                 <CardTitle className="text-red-600 flex items-center">
                   <Target className="w-5 h-5 mr-2" />
@@ -40,7 +40,7 @@ const CaseStudySection = () => {
               </CardContent>
             </Card>
 
-            <Card className="hover:shadow-lg transition-shadow">
+            <Card className="bg-white hover:shadow-lg transition-shadow">
               <CardHeader>
                 <CardTitle className="text-green-600 flex items-center">
                   <CheckCircle className="w-5 h-5 mr-2" />
@@ -77,7 +77,7 @@ const CaseStudySection = () => {
             </CardContent>
           </Card>
 
-          <Card className="hover:shadow-lg transition-shadow mb-8">
+          <Card className="bg-white hover:shadow-lg transition-shadow mb-8">
             <CardHeader>
               <CardTitle className="text-center text-slate-800">
                 Aprendizado do Projeto:

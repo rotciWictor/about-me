@@ -47,9 +47,6 @@ const WorkProcessSection = () => {
       <div className="container mx-auto px-6">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-12">
-            <Badge variant="secondary" className="mb-4 bg-purple-600 text-white">
-              Como Trabalho
-            </Badge>
             <h2 className="text-3xl font-bold mb-4 text-slate-900">
               {workProcess.title}
             </h2>
@@ -60,7 +57,7 @@ const WorkProcessSection = () => {
             {workProcess.phases && workProcess.phases.map((phase, index) => {
               const colorClasses = getColorClasses(phase.color);
               return (
-                <Card key={index} className={`hover:shadow-lg transition-shadow border-t-4 ${colorClasses.border} flex flex-col h-full`}>
+                <Card key={index} className={`bg-white hover:shadow-lg transition-shadow border-t-4 ${colorClasses.border} flex flex-col h-full`}>
                   <CardHeader className="flex-shrink-0">
                     <div className={`w-12 h-12 ${colorClasses.bg} rounded-full flex items-center justify-center mx-auto mb-4`}>
                       <span className={`text-xl font-bold ${colorClasses.text}`}>{phase.number}</span>
@@ -103,7 +100,7 @@ const WorkProcessSection = () => {
           </div>
 
           {workProcess.whyDifferent && (
-            <Card className="hover:shadow-lg transition-shadow mb-8">
+            <Card className="bg-white hover:shadow-lg transition-shadow mb-8">
               <CardHeader>
                 <CardTitle className="text-center text-slate-800">
                   {workProcess.whyDifferent.title}

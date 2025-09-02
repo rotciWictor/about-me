@@ -37,7 +37,7 @@ const AboutSection = () => {
                </div>
                
                {/* Quote */}
-               <div className="bg-white/80 backdrop-blur-sm rounded-lg p-6 max-w-sm mx-auto">
+               <div className="bg-white rounded-lg p-6 max-w-sm mx-auto shadow-lg">
                  <blockquote className="text-lg italic text-slate-700 text-center">
                    "{about.quote.text}"
                  </blockquote>
@@ -47,10 +47,10 @@ const AboutSection = () => {
 
             {/* Story */}
             <div className="space-y-6">
-                            <Card className="bg-white/80 backdrop-blur-sm hover:bg-white/90 transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
+              <Card className="bg-white hover:shadow-lg transition-shadow duration-300">
                 <CardContent className="p-6">
                   <h3 className="text-xl font-semibold mb-4 text-slate-900 flex items-center">
-                    <Heart className="w-5 h-5 mr-2 text-red-500 animate-pulse" />
+                    <Heart className="w-5 h-5 mr-2 text-red-500" />
                     {about.story.journey.title}
                   </h3>
                   <p className="text-slate-700 leading-relaxed">
@@ -59,10 +59,10 @@ const AboutSection = () => {
                 </CardContent>
               </Card>
 
-                            <Card className="bg-white/80 backdrop-blur-sm hover:bg-white/90 transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
+              <Card className="bg-white hover:shadow-lg transition-shadow duration-300">
                 <CardContent className="p-6">
                   <h3 className="text-xl font-semibold mb-4 text-slate-900 flex items-center">
-                    <Lightbulb className="w-5 h-5 mr-2 text-yellow-500 animate-pulse" />
+                    <Lightbulb className="w-5 h-5 mr-2 text-yellow-500" />
                     {about.story.vision.title}
                   </h3>
                   <p className="text-slate-700 leading-relaxed">
@@ -71,10 +71,10 @@ const AboutSection = () => {
                 </CardContent>
               </Card>
 
-                            <Card className="bg-white/80 backdrop-blur-sm hover:bg-white/90 transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
+              <Card className="bg-white hover:shadow-lg transition-shadow duration-300">
                 <CardContent className="p-6">
                   <h3 className="text-xl font-semibold mb-4 text-slate-900 flex items-center">
-                    <Users className="w-5 h-5 mr-2 text-blue-500 animate-pulse" />
+                    <Users className="w-5 h-5 mr-2 text-blue-500" />
                     {about.story.methodology.title}
                   </h3>
                   <p className="text-slate-700 leading-relaxed">
