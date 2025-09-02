@@ -100,23 +100,25 @@ const WorkProcessSection = () => {
           </div>
 
           {workProcess.whyDifferent && (
-            <Card className="bg-white hover:shadow-lg transition-shadow mb-8">
-              <CardHeader>
-                <CardTitle className="text-center text-slate-800">
-                  {workProcess.whyDifferent.title}
-                </CardTitle>
-              </CardHeader>
-              <CardContent>
-                <div className="space-y-3">
-                  {workProcess.whyDifferent.items && workProcess.whyDifferent.items.map((item, index) => (
-                    <div key={index} className="flex items-start space-x-3">
-                      <CheckCircle className="w-5 h-5 text-green-600 mt-0.5 flex-shrink-0" />
-                      <span className="text-slate-700">{item}</span>
-                    </div>
-                  ))}
-                </div>
-              </CardContent>
-            </Card>
+            <div className="max-w-4xl mx-auto mb-12">
+              <Card className="bg-white hover:shadow-lg transition-shadow">
+                <CardHeader className="text-center pb-6">
+                  <CardTitle className="text-2xl font-bold text-slate-800">
+                    {workProcess.whyDifferent.title}
+                  </CardTitle>
+                </CardHeader>
+                <CardContent className="px-8 pb-8">
+                  <div className="space-y-6 max-w-xl ml-auto" style={{ marginRight: '3rem' }}>
+                    {workProcess.whyDifferent.items && workProcess.whyDifferent.items.map((item, index) => (
+                      <div key={index} className="flex items-start space-x-4">
+                        <CheckCircle className="w-6 h-6 text-green-600 mt-0.5 flex-shrink-0" />
+                        <span className="text-slate-700 leading-relaxed">{item}</span>
+                      </div>
+                    ))}
+                  </div>
+                </CardContent>
+              </Card>
+            </div>
           )}
 
           {/* PARCERIAS ESTRATÉGICAS - Seção separada (oculta por enquanto) */}
