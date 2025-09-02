@@ -42,7 +42,7 @@ const ContactSection = () => {
             </Card>
 
             <Card className="bg-[#EA4335] hover:bg-[#D33B2C] transition-colors cursor-pointer text-white border-[#EA4335]"
-                  onClick={() => window.open('mailto:victorhscampos@gmail.com', '_blank')}>
+                  onClick={() => window.open('mailto:contato@vcampos.dev', '_blank')}>
               <CardHeader className="text-center">
                 <Mail className="w-12 h-12 mx-auto mb-4" />
                 <CardTitle>Email</CardTitle>

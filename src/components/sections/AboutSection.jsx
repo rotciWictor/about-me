@@ -150,7 +150,7 @@ const AboutSection = () => {
                   </a>
 
                   <a 
-                    href="mailto:victorhscampos@gmail.com" 
+                    href="mailto:contato@vcampos.dev" 
                     className="w-12 h-12 bg-[#EA4335] hover:bg-[#D33B2C] rounded-full shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center hover:scale-110"
                   >
                     <Mail className="w-5 h-5 text-white" />
