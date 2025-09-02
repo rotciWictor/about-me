@@ -1,0 +1,39 @@
+{
+  "title": "Sobre Mim",
+  "subtitle": "Conheça minha jornada e metodologia",
+  "quote": {
+    "text": "O futuro pertence àqueles que conseguem transformar dados em insights e insights em ação.",
+    "author": "Satya Nadella"
+  },
+  "story": {
+    "journey": {
+      "title": "Minha Jornada",
+      "content": "Comecei na área de dados e automação, mas sempre tive paixão por resolver problemas reais. Na CloudWalk, aprendi a trabalhar com sistemas críticos e a importância de soluções robustas. Hoje, aplico essa experiência para ajudar empresas de todos os tamanhos a otimizar seus processos."
+    },
+    "methodology": {
+      "title": "Minha Metodologia",
+      "content": "Primeiro, entendo profundamente o problema. Depois, desenho uma solução que seja simples de usar, mas poderosa nos resultados. Sempre penso em escalabilidade e manutenibilidade, porque sei que o sucesso de hoje pode ser o gargalo de amanhã."
+    },
+    "vision": {
+      "title": "Minha Visão",
+      "content": "Acredito que tecnologia deve servir ao negócio, não o contrário. Por isso, foco em soluções práticas que realmente fazem a diferença no dia a dia das pessoas e empresas."
+    }
+  },
+  "interests": {
+    "title": "Além do Código",
+    "items": [
+      {
+        "title": "Música & Código",
+        "description": "Melhor combinação para resolver problemas complexos"
+      },
+      {
+        "title": "Aprendizado Contínuo",
+        "description": "Este case demonstra minha capacidade de pegar conceitos enterprise (ESG, compliance, BI) e transformar em soluções práticas para qualquer setor. A mesma metodologia funciona para e-commerce, serviços, educação, saúde e outros."
+      },
+      {
+        "title": "Resultados Práticos",
+        "description": "Foco em entregar valor real, não apenas código"
+      }
+    ]
+  }
+}

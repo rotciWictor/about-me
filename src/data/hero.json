@@ -1,0 +1,17 @@
+{
+  "title": "Victor Campos",
+  "subtitle": "Consultor Técnico & Desenvolvedor Web",
+  "description": "Transformo processos complexos em soluções simples e eficientes",
+  "ctaDescription": "Vamos automatizar seus processos e otimizar sua operação?",
+  "cta": {
+    "primary": {
+      "text": "Conversar no WhatsApp",
+      "message": "Oi Victor, vi seu site e preciso automatizar [descrever processo]. Como funciona o briefing técnico gratuito?"
+    },
+    "secondary": {
+      "text": "Ver Portfólio",
+      "message": "Oi Victor, vi seu site e gostaria de conhecer melhor seus projetos e cases de sucesso!"
+    }
+  },
+  "info": "💬 Resposta em até 2 dias úteis • 📋 Briefing técnico gratuito • 🎯 Projetos personalizados"
+}

@@ -1,0 +1,90 @@
+{
+  "title": "⚡ COMO TRABALHO - Consultoria + Desenvolvimento",
+  "subtitle": "Meu Processo Diferenciado em 3 Fases:",
+  "phases": [
+    {
+      "number": "📋",
+      "title": "FASE 1: BRIEFING TÉCNICO",
+      "duration": "(1-2 dias)",
+      "color": "blue",
+      "items": [
+        "Diagnóstico completo do seu processo atual",
+        "Mapeamento de gargalos e oportunidades",
+        "Definição da stack ideal para o problema",
+        "Documento técnico detalhado com arquitetura"
+      ],
+      "investment": "Investimento: R$ 0 (sempre gratuito)"
+    },
+    {
+      "number": "💻",
+      "title": "FASE 2: DESENVOLVIMENTO",
+      "duration": "(Prazo definido no briefing)",
+      "color": "green",
+      "items": [
+        "Código baseado no briefing aprovado",
+        "Marcos de aprovação a cada etapa",
+        "Sem mudanças de escopo surpresa",
+        "Testes funcionais e de performance"
+      ],
+      "cta": "Você aprova cada passo"
+    },
+    {
+      "number": "🚀",
+      "title": "FASE 3: ENTREGA & SUPORTE",
+      "duration": " ",
+      "color": "purple",
+      "items": [
+        "Sistema funcionando 100%",
+        "Documentação técnica completa",
+        "Treinamento de uso para sua equipe",
+        "45 dias de suporte pós-entrega incluído"
+      ],
+      "guarantee": "Garantia: Sistema conforme briefing"
+    }
+  ],
+  "whyDifferent": {
+    "title": "Por Que Meu Processo É Diferente:",
+    "items": [
+      "Transparência total: Você sabe exatamente o que vai receber",
+      "Sem surpresas técnicas: Briefing elimina 90% dos problemas",
+      "Aprovação por etapas: Você nunca fica \"no escuro\"",
+      "Pagamento seguro: 50% início + 50% aprovação final"
+    ]
+  },
+  "partnerships": {
+    "title": "🎯 PARCERIAS ESTRATÉGICAS - Projetos Selecionados",
+    "subtitle": "Como Escolho Meus Parceiros de Projeto",
+    "description": "Com experiência enterprise e agenda limitada, seleciono cuidadosamente os projetos que aceito. Busco parcerias onde posso aplicar conhecimento de fintechs unicórnio em problemas reais.",
+    "criteria": {
+      "title": "Critérios para Parceria:",
+      "items": [
+        "Potencial de impacto: Projeto que gera resultado mensurável",
+        "Inovação técnica: Oportunidade de aplicar IA, automação ou BI",
+        "Fit estratégico: Complementa meu portfólio de soluções",
+        "Parceria verdadeira: Cliente engajado no processo e resultados"
+      ]
+    },
+    "advantages": {
+      "title": "Vantagens da Parceria Estratégica:",
+      "items": [
+        "💰 Condições especiais (desconto varia conforme fit do projeto)",
+        "🎯 Atenção exclusiva (máximo 3 projetos/mês)",
+        "🚀 Conhecimento enterprise aplicado ao seu negócio",
+        "📈 Foco no resultado (seu sucesso = nossa parceria)",
+        "🤝 Relacionamento de longo prazo (não é só um projeto)"
+      ]
+    },
+    "freedom": {
+      "title": "Liberdade de Escolha:",
+      "items": [
+        "⚠ Projeto não alinha? Declino respeitosamente.",
+        "✅ Projeto estratégico? Condições especiais garantidas."
+      ]
+    },
+    "quote": "Prefiro fazer 3 projetos excelentes que 10 mediocres. Qualidade > Quantidade.",
+    "ctas": [
+      "VERIFICAR FIT PARA PARCERIA ESTRATÉGICA",
+      "DESCOBRIR MINHA CONDIÇÃO PERSONALIZADA"
+    ]
+  }
+}

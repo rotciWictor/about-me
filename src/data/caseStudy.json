@@ -1,0 +1,39 @@
+{
+  "title": "Estudo de Caso Principal",
+  "projectTitle": "Plataforma de Gestão ESG para Eventos",
+  "subtitle": "Destaque Portfolio - Climatech",
+  "description": "Este case demonstra minha capacidade de pegar conceitos enterprise (ESG, compliance, BI) e transformar em soluções práticas para qualquer setor. A mesma metodologia funciona para e-commerce, serviços, educação, saúde e outros.",
+  "challenge": {
+    "title": "O Desafio Corporativo",
+    "items": [
+      "Gestão de sustentabilidade complexa e manual",
+      "Múltiplos fornecedores sem controle unificado",
+      "Relatórios ESG demorados e propensos a erros",
+      "Falta de visibilidade em tempo real dos indicadores"
+    ]
+  },
+  "solution": {
+    "title": "A Solução Técnica Completa",
+    "items": [
+      "Plataforma web de gestão centralizada",
+      "Dashboard de acompanhamento em tempo real",
+      "Sistema automatizado de qualificação",
+      "Relatórios de sustentabilidade automáticos"
+    ]
+  },
+  "results": {
+    "title": "Resultados Alcançados",
+    "items": [
+      "Redução de 80% no tempo de gestão ESG",
+      "Eliminação de erros manuais nos relatórios",
+      "Visibilidade completa em tempo real",
+      "Compliance automático com regulamentações"
+    ]
+  },
+  "technologies": [
+    "React + TypeScript",
+    "Node.js + Express",
+    "PostgreSQL",
+    "Google Cloud Platform"
+  ]
+}
