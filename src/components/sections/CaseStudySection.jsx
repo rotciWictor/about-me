@@ -92,9 +92,9 @@ const CaseStudySection = () => {
 
           <div className="text-center">
             <div className="mb-8">
-              <h3 className="text-xl font-semibold mb-6 text-slate-800">Tecnologias Utilizadas</h3>
+              <h3 className="text-xl font-semibold mb-6 text-slate-800">{caseStudy.technologies.title}</h3>
               <div className="flex flex-wrap justify-center gap-3">
-                {caseStudy.technologies.map((tech, index) => (
+                {caseStudy.technologies.items.map((tech, index) => (
                   <Badge key={index} variant="outline" className="px-4 py-2 text-sm">
                     {tech}
                   </Badge>

@@ -1,22 +1,22 @@
 {
   "title": "Sobre Mim",
-  "subtitle": "Conheça minha jornada e metodologia",
+  "subtitle": "De resolver problemas complexos a automatizar processos: minha jornada única",
   "quote": {
     "text": "O futuro pertence àqueles que entendem como combinar tecnologia com visão de negócio",
-    "author": "Satya Nadella"
+    "author": "Satya Nadella, CEO da Microsoft"
   },
   "story": {
     "journey": {
-      "title": "Minha Jornada",
-      "content": "Comecei na área de dados e automação, mas sempre tive paixão por resolver problemas reais. Na CloudWalk, aprendi a trabalhar com sistemas críticos e a importância de soluções robustas. Hoje, aplico essa experiência para ajudar empresas de todos os tamanhos a otimizar seus processos."
+      "title": "Minha História",
+      "content": "Sempre fui movido por resolver problemas. Comecei gerenciando eventos na AIESEC (onde enfrentamos até uma cobra durante uma conferência!), passei por logística numa cervejaria criando planilhas para controle de estoque, e cheguei até ser voluntário nas Paralimpíadas Rio 2016. O ponto de virada? Foi na cervejaria que descobri minha paixão pela automação. Criei uma planilha para controlar a perda de barril - o problema continuava. Foi aí que percebi: 'preciso de algo mais poderoso que Excel'. Mergulhei na programação e nunca mais olhei para trás."
     },
     "methodology": {
-      "title": "Minha Metodologia",
-      "content": "Primeiro, entendo profundamente o problema. Depois, desenho uma solução que seja simples de usar, mas poderosa nos resultados. Sempre penso em escalabilidade e manutenibilidade, porque sei que o sucesso de hoje pode ser o gargalo de amanhã."
+      "title": "De Planilhas a Sistemas Enterprise",
+      "content": "Nos últimos 2 anos na CloudWalk, aprendi a trabalhar com sistemas que processam milhões de transações diárias. Desenvolvi dashboards que executivos usam para tomar decisões de milhões de reais, criei bots de IA que atendem milhares de clientes, e consertei bugs críticos em produção. Minha descoberta? A tecnologia mais sofisticada do mundo não vale nada se não resolver um problema real de negócio."
     },
     "vision": {
-      "title": "Minha Visão",
-      "content": "Acredito que tecnologia deve servir ao negócio, não o contrário. Por isso, foco em soluções práticas que realmente fazem a diferença no dia a dia das pessoas e empresas."
+      "title": "Por Que Trabalho Assim",
+      "content": "Tenho uma vantagem única: entendo os dois lados. Passei anos em áreas administrativas e comerciais - sei exatamente como é ficar horas fazendo algo manual que poderia ser automatizado. E também sei construir a solução técnica que realmente funciona. Por isso meu primeiro passo é sempre o briefing gratuito: antes de escrever uma linha de código, preciso entender profundamente o seu problema real."
     }
   },
   "interests": {
@@ -24,15 +24,15 @@
     "items": [
       {
         "title": "Música & Código",
-        "description": "Melhor combinação para resolver problemas complexos"
+        "description": "Minha forma de resolver bugs complexos"
       },
       {
         "title": "Aprendizado Contínuo",
-        "description": "Sempre estudando novas tecnologias e metodologias para entregar as melhores soluções"
+        "description": "Estudando novas tecnologias (o mundo tech não para)"
       },
       {
-        "title": "Resultados Práticos",
-        "description": "Foco em entregar valor real, não apenas código"
+        "title": "Automação",
+        "description": "Pensando em como automatizar mais processos (é um vício)"
       }
     ]
   }
