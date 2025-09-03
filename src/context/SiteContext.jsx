@@ -8,6 +8,7 @@ import contactData from '../data/contact.json';
 import footerData from '../data/footer.json';
 import caseStudyData from '../data/caseStudy.json';
 import workProcessData from '../data/workProcess.json';
+import servicesData from '../data/services.json';
 
 // Create the context
 const SiteContext = createContext();
@@ -33,8 +34,11 @@ export const SiteProvider = ({ children }) => {
     contact: contactData,
     footer: footerData,
     caseStudy: caseStudyData,
-    workProcess: workProcessData
+    workProcess: workProcessData,
+    services: servicesData
   };
+
+
 
   // Helper function to get nested values with fallback
   const getValue = (path, fallback = '') => {
@@ -64,7 +68,8 @@ export const SiteProvider = ({ children }) => {
     contact: contactData,
     footer: footerData,
     caseStudy: caseStudyData,
-    workProcess: workProcessData
+    workProcess: workProcessData,
+    services: servicesData
   };
 
   return (

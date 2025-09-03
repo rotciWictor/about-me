@@ -1,0 +1,69 @@
+{
+  "title": "O Que Posso Construir Para Você",
+  "subtitle": "Soluções personalizadas para transformar seu negócio",
+  "categories": [
+    {
+      "icon": "🏢",
+      "title": "Sistemas de Gestão",
+      "items": [
+        "Controle de estoque e vendas",
+        "CRM personalizado para seu negócio",
+        "Dashboards executivos com métricas reais"
+      ]
+    },
+    {
+      "icon": "🛒",
+      "title": "E-commerce & Vendas",
+      "items": [
+        "Lojas online completas",
+        "Sistemas de pagamento integrados",
+        "Catálogos digitais interativos",
+        "Plataformas de marketplace"
+      ]
+    },
+    {
+      "icon": "📊",
+      "title": "Análise & Relatórios",
+      "items": [
+        "Relatórios automáticos personalizados",
+        "Análise de dados em tempo real",
+        "Integração com suas planilhas existentes",
+        "Business Intelligence sob medida"
+      ]
+    },
+    {
+      "icon": "🤖",
+      "title": "Automação Inteligente",
+      "items": [
+        "Chatbots com IA para atendimento",
+        "Processos automáticos que economizam tempo",
+        "Integrações entre sistemas diferentes",
+        "Workflows personalizados"
+      ]
+    },
+    {
+      "icon": "💼",
+      "title": "Soluções Corporativas",
+      "items": [
+        "Portais internos da empresa",
+        "Sistemas de RH e controle de ponto",
+        "Plataformas de treinamento online",
+        "Ferramentas de colaboração"
+      ]
+    },
+    {
+      "icon": "🎯",
+      "title": "Aplicações Especializadas",
+      "items": [
+        "Sistemas de agendamento e reservas",
+        "Plataformas educacionais online",
+        "Ferramentas de produtividade personalizadas",
+        "Apps mobile nativos (Flutter)"
+      ]
+    }
+  ],
+  "differential": {
+    "title": "Diferencial Único",
+    "content": "Não importa se você precisa de um sistema simples ou uma plataforma complexa. Combino visão de negócio com execução técnica para entregar exatamente o que você precisa - do MVP ao sistema enterprise."
+  }
+}

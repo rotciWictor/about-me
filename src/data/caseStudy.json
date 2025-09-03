@@ -30,10 +30,13 @@
       "Compliance automático com regulamentações"
     ]
   },
-  "technologies": [
-    "React + TypeScript",
-    "Node.js + Express",
-    "PostgreSQL",
-    "Google Cloud Platform"
-  ]
+  "technologies": {
+    "title": "O Que Entrego Para Você",
+    "items": [
+      "Sistemas que funcionam 24/7 sem travamento",
+      "Relatórios automáticos que economizam 20h por semana",
+      "Automação inteligente que elimina trabalho repetitivo",
+      "Plataforma escalável para crescimento"
+    ]
+  }
 }

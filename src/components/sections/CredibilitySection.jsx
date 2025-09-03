@@ -25,7 +25,7 @@ const CredibilitySection = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-sm text-slate-600">
-                  Dashboards estratégicos, BigQuery, bots com IA em sistemas que processam milhões
+                  Relatórios automáticos que economizam 20h por semana em sistemas que processam milhões
                 </p>
               </CardContent>
             </Card>
@@ -70,7 +70,7 @@ const CredibilitySection = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-sm text-slate-600">
-                  SQL enterprise, automação inteligente, IA quando necessário
+                  Sistemas que funcionam 24/7 sem travamento e automação inteligente que elimina trabalho repetitivo
                 </p>
               </CardContent>
             </Card>

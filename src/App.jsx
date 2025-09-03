@@ -4,6 +4,7 @@ import { SiteProvider } from './context/SiteContext';
 import HeroSection from './components/sections/HeroSection';
 import CredibilitySection from './components/sections/CredibilitySection';
 import AboutSection from './components/sections/AboutSection';
+import ServicesSection from './components/sections/ServicesSection';
 import CaseStudySection from './components/sections/CaseStudySection';
 import WorkProcessSection from './components/sections/WorkProcessSection';
 import TechStackSection from './components/sections/TechStackSection';
@@ -17,6 +18,7 @@ function App() {
         <HeroSection />
         <CredibilitySection />
         <AboutSection />
+        <ServicesSection />
         <CaseStudySection />
         <WorkProcessSection />
         <TechStackSection />
