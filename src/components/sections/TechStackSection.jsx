@@ -1,26 +1,26 @@
 import React from 'react';
-import { Card, CardContent, CardHeader, CardTitle } from '../ui/card';
+import { Card, CardContent, CardHeader, CardTitle } from '../ui/Card';
 import { CheckCircle } from 'lucide-react';
 import { useSite } from '../../context/SiteContext';
 
 
-import reactLogo from '../../assets/logos/react.svg';
-import nextjsLogo from '../../assets/logos/nextdotjs.svg';
-import nodejsLogo from '../../assets/logos/nodedotjs.svg';
-import pythonLogo from '../../assets/logos/python.svg';
-import bigqueryLogo from '../../assets/logos/googlebigquery.svg';
-import openaiLogo from '../../assets/logos/openai.svg';
-import powerbiLogo from '../../assets/powerbi_logo.png';
-import googlecloudLogo from '../../assets/logos/googlecloud.svg';
-import viteLogo from '../../assets/logos/vite.svg';
-import tailwindLogo from '../../assets/logos/tailwindcss.svg';
-import javascriptLogo from '../../assets/logos/javascript.svg';
-import typescriptLogo from '../../assets/logos/typescript.svg';
-import rubyLogo from '../../assets/logos/ruby.svg';
-import flutterLogo from '../../assets/logos/flutter.svg';
-import postgresLogo from '../../assets/logos/postgresql.svg';
-import gitLogo from '../../assets/logos/git.svg';
-import claudeLogo from '../../assets/logos/claude.svg';
+import reactLogo from '../../assets/icons/logos/react.svg';
+import nextjsLogo from '../../assets/icons/logos/nextdotjs.svg';
+import nodejsLogo from '../../assets/icons/logos/nodedotjs.svg';
+import pythonLogo from '../../assets/icons/logos/python.svg';
+import bigqueryLogo from '../../assets/icons/logos/googlebigquery.svg';
+import openaiLogo from '../../assets/icons/logos/openai.svg';
+import powerbiLogo from '../../assets/images/powerbi_logo.png';
+import googlecloudLogo from '../../assets/icons/logos/googlecloud.svg';
+import viteLogo from '../../assets/icons/logos/vite.svg';
+import tailwindLogo from '../../assets/icons/logos/tailwindcss.svg';
+import javascriptLogo from '../../assets/icons/logos/javascript.svg';
+import typescriptLogo from '../../assets/icons/logos/typescript.svg';
+import rubyLogo from '../../assets/icons/logos/ruby.svg';
+import flutterLogo from '../../assets/icons/logos/flutter.svg';
+import postgresLogo from '../../assets/icons/logos/postgresql.svg';
+import gitLogo from '../../assets/icons/logos/git.svg';
+import claudeLogo from '../../assets/icons/logos/claude.svg';
 
 const TechStackSection = () => {
   const { techStack } = useSite();
