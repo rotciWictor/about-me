@@ -3,11 +3,11 @@ import siteData from '../data/site.json';
 import heroData from '../data/hero.json';
 import aboutData from '../data/about.json';
 import credibilityData from '../data/credibility.json';
-import techStackData from '../data/techStack.json';
+import techStackData from '../data/tech-stack.json';
 import contactData from '../data/contact.json';
 import footerData from '../data/footer.json';
-import caseStudyData from '../data/caseStudy.json';
-import workProcessData from '../data/workProcess.json';
+import caseStudyData from '../data/case-studies.json';
+import workProcessData from '../data/work-process.json';
 import servicesData from '../data/services.json';
 
 // Create the context

@@ -1,9 +1,9 @@
 import React from 'react';
-import { Card, CardContent } from '../ui/card';
-import { Badge } from '../ui/badge';
+import { Card, CardContent } from '../ui/Card';
+import { Badge } from '../ui/Badge';
 import { Heart, Music, BookOpen, Lightbulb, Target, Users, Linkedin, MessageCircle, Mail, Github } from 'lucide-react';
 import { useSite } from '../../context/SiteContext';
-import profileImage from '../../assets/victor_campos_profile.jpg';
+import profileImage from '../../assets/images/victor_campos_profile.jpg';
 
 const AboutSection = () => {
   const { about, getWhatsAppLink } = useSite();

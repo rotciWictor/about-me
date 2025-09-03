@@ -1,9 +1,9 @@
 import React from 'react';
-import { Button } from '../ui/button';
-import { Badge } from '../ui/badge';
+import { Button } from '../ui/Button';
+import { Badge } from '../ui/Badge';
 import { CheckCircle, MessageCircle, Target, Zap, Star } from 'lucide-react';
 import { useSite } from '../../context/SiteContext';
-import profileImage from '../../assets/victor_campos_profile.jpg';
+import profileImage from '../../assets/images/victor_campos_profile.jpg';
 
 const HeroSection = () => {
   const { hero, getWhatsAppLink } = useSite();

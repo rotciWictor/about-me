@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './globals.css';
 import { SiteProvider } from './context/SiteContext';
 import HeroSection from './components/sections/HeroSection';
 import CredibilitySection from './components/sections/CredibilitySection';
@@ -14,7 +14,7 @@ import Footer from './components/sections/Footer';
 function App() {
   return (
     <SiteProvider>
-          <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100">
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100">
         <HeroSection />
         <CredibilitySection />
         <AboutSection />

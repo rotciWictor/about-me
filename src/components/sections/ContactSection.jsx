@@ -1,6 +1,6 @@
 import React from 'react';
-import { Button } from '../ui/button';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../ui/card';
+import { Button } from '../ui/Button';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../ui/Card';
 import { MessageCircle, Mail, Linkedin, Github, Clock, Target } from 'lucide-react';
 import { useSite } from '../../context/SiteContext';
 
