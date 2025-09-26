@@ -12,7 +12,7 @@ const Footer = () => {
               <h4 className="font-semibold text-white mb-4">Garantias e Políticas:</h4>
               <ul className="space-y-2 text-sm">
                 <li>• Privacidade: Seus dados protegidos (LGPD)</li>
-                <li>• Pagamento: 50% início + 50% aprovação final</li>
+                <li>• Pagamento: 50% início + 50% aprovação final (parcelável em até 12x*)</li>
                 <li>• Suporte: 45 dias incluído em todo projeto</li>
               </ul>
             </div>
@@ -24,6 +24,7 @@ const Footer = () => {
             </div>
           </div>
           <div className="border-t border-slate-800 pt-8 text-center">
+            <p className="text-xs text-slate-500 mb-2">* Taxa administrativa será repassada ao cliente</p>
             <p>&copy; {new Date().getFullYear()} - {footer.copyright}</p>
             <p className="text-xs text-slate-500 mt-2">{footer.cnpj}</p>
           </div>
